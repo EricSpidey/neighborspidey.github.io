@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.eadf46bca91a860b350589e6f540db1d.js"
+  "/precache-manifest.05f3432d4ef1273a0d31b0a0f98bc68b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spidey"});
